@@ -4,6 +4,13 @@ Visualize hierarchical data in an interesting and different aspect where leaf no
 
 **For a live demo, see [Hierarchical Heatmap](https://observablehq.com/@analyzer2004/hierarchical-heatmap).**
 
+Small Dataset
+<img src="https://github.com/analyzer2004/hheatmap/blob/master/images/cover1.png">
+
+Large Dataset
+<img src="https://github.com/analyzer2004/hheatmap/blob/master/images/cover2.png">
+
+
 # API Reference
 * **Heatmap()** - Constructs a new hierarchical heatmap generator with the default settings.
 * **size(width, height)** - Sets this heatmap's dimensions to specified width and height and returns this heatmap.

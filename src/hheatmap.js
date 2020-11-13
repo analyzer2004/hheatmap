@@ -1,3 +1,5 @@
+// https://github.com/analyzer2004/hheatmap
+// Copyright 2020 Eric Lo
 class Heatmap {
     constructor() {
         this._width = 0;
